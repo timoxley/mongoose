@@ -5,7 +5,7 @@
   , "author": "Guillermo Rauch <guillermo@learnboost.com>"
   , "keywords": ["mongodb", "mongoose", "mongo", "orm", "data", "datastore", "nosql", "odm", "sql"]
   , "dependencies": {
-        "hooks": "0.2.1"
+        "hooks"   : "git://github.com/STRML/hooks-js.git"
       , "mongodb": "1.0.2"
     }
   , "devDependencies": {
